@@ -1,4 +1,5 @@
-Instructions to run the application - 
+Instructions to run the application -
+Execute mvn clean install for three microservices and then
 Bring up all the three applications i.e 
 - Api Gateway Service
 - Car Service
